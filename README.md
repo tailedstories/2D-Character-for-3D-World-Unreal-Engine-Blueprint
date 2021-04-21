@@ -6,7 +6,7 @@ ______________
 
 # Steps to Deploy
 
-1) Download the folder _______
+1) Download the folder ThirdPersonBP
 
 2) Create new game project in Unreal Engine (3D character)
 
