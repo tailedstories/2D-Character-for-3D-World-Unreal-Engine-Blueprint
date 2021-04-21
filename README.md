@@ -21,8 +21,11 @@ ______________
 5.2) Go to Project Settings --> Engine Input --> add if not exist:
 
 5.2.a Jump - assign button space
+
 5.2.b Sprint - assign button shift
+
 5.2.c Rotate90L - assign button "Q"
+
 5.2.d Rotate90R - assign button "E"
 
 5.3) Go to Project Settings --> Engine Collision --> add trace channels:
