@@ -7,9 +7,13 @@ ______________
 # Steps to Deploy
 
 1) Download the folder _______
+
 2) Create new game project in Unreal Engine (3D character)
+
 3) Put downloaded files in "MyProject\Content\ThirdPersonBP\Blueprints" folder
-4) Create in level blueprint
+
+4) Create in level blueprint\
+
 5) Add to project settings --> UI
 
 5.1) Go to Project Settings --> Project Maps and Modes --> Game inscance Class --> Set it to "Main Instance)
@@ -17,12 +21,14 @@ ______________
 5.2) Go to Project Settings --> Engine Input --> add if not exist:
 
 5.2.a Jump - assign button space
-
 5.2.b Sprint - assign button shift
-
 5.2.c Rotate90L - assign button "Q"
-
 5.2.d Rotate90R - assign button "E"
+
+5.3) Go to Project Settings --> Engine Collision --> add trace channels:
+
+5.3.a LedgeTrace - Ignore
+5.3.b BattleTrace - overlap
 
 
 # References. Thanks to people that publish tutorials:
