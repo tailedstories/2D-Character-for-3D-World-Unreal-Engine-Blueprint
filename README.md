@@ -10,7 +10,7 @@ ______________
 
 2) Create new game project in Unreal Engine (3D character)
 
-3) Put downloaded files in "MyProject\Content\ThirdPersonBP\Blueprints" folder
+3) Put downloaded files in "MyProject\Content\ThirdPersonBP" folder
 
 4) Create in level blueprint\
 
