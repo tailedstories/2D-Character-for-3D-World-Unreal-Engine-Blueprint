@@ -12,26 +12,24 @@ ______________
 
 3) Put downloaded files in "MyProject\Content\ThirdPersonBP" folder
 
-4) Create in level blueprint\
+4) Add to project settings --> UI
 
-5) Add to project settings --> UI
+4.1) Go to Project Settings --> Project Maps and Modes --> Game inscance Class --> Set it to "Main Instance)
 
-5.1) Go to Project Settings --> Project Maps and Modes --> Game inscance Class --> Set it to "Main Instance)
+4.2) Go to Project Settings --> Engine Input --> add if not exist:
 
-5.2) Go to Project Settings --> Engine Input --> add if not exist:
+4.2.a Jump - assign button space
 
-5.2.a Jump - assign button space
+4.2.b Sprint - assign button shift
 
-5.2.b Sprint - assign button shift
+4.2.c Rotate90L - assign button "Q"
 
-5.2.c Rotate90L - assign button "Q"
+4.2.d Rotate90R - assign button "E"
 
-5.2.d Rotate90R - assign button "E"
+4.3) Go to Project Settings --> Engine Collision --> add trace channels:
 
-5.3) Go to Project Settings --> Engine Collision --> add trace channels:
-
-5.3.a LedgeTrace - Ignore
-5.3.b BattleTrace - overlap
+4.3.a LedgeTrace - Ignore
+4.3.b BattleTrace - overlap
 
 
 # References. Thanks to people that publish tutorials:
