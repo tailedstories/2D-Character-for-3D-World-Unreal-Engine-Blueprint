@@ -2,6 +2,13 @@
 
 Walkthrought how to use and deploy on youtube:
 https://youtu.be/suFrbG236Kg
+
+
+Forders:
+
+1) ThirdPersonBP - blueprint for Unreal Engine 4 (not maintained)
+2) ThirdPersonBP_UE5 - blueprint for Unreal Engine 5 (maintained)
+
 ______________
 
 
