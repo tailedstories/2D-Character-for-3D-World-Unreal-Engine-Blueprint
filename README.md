@@ -37,6 +37,7 @@ ______________
 4.3) Go to Project Settings --> Engine Collision --> add trace channels:
 
 4.3.a LedgeTrace - Ignore
+
 4.3.b BattleTrace - overlap
 
 
