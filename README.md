@@ -14,7 +14,7 @@ ______________
 
 # Steps to Deploy
 
-1) Download the folder ThirdPersonBP
+1) Download the folder ThirdPersonBP (or UE5 one, but rename it to ThirdPersonBP)
 
 2) Create new game project in Unreal Engine (3D character)
 
@@ -39,6 +39,10 @@ ______________
 4.3.a LedgeTrace - Ignore
 4.3.b BattleTrace - overlap
 
+
+# Questions?
+
+Discord https://discord.gg/BPAydWuN
 
 # References. Thanks to people that publish tutorials:
 1) Climbing system based on Marcos Medel tutorial --> UE4 Climb System - Tutorial - Part 1 - Grab & Climb-Up https://www.youtube.com/watch?v=BKiSTM-G9pQ
